@@ -12,3 +12,6 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaSai2519&theme=react&border_radius=10&count_private=true&layout=compact" alt="Lang stats" />
 
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramasai2519&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
