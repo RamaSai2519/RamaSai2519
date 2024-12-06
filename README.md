@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamaSai2519
+- 👋 Hi, I’m Rama Sathya Sai @RamaSai2519
 - 👀 I’m a Full-Stack Developer
 - 📫 Reach me @ ramasathyasai2006@gmail.com
 - 😄 Pronouns: He/Him
