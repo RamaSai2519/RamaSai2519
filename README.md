@@ -1,49 +1,22 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+👋+I'm+Rama+Sathya+Sai;Full-Stack+Developer+%7C+Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
-</div>
+<h1 align="center">👋 Hi, I'm Rama Sathya Sai</h1>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=ramasai2519&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ramasai2519)
-  
-</div>
+<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-```javascript
-const ramaSai = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java"],
-    askMeAbout: ["web dev", "cloud computing", "AI/ML", "system design"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Next.js"],
-            styling: ["Tailwind CSS"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            frameworks: ["Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        cloudServices: ["AWS", "Azure", "GCP", "Vercel"],
-        devOps: ["GitHub Actions", "Nginx"],
-        tools: ["VS Code", "Git", "Postman", "Figma", "Notion"]
-    },
-    currentFocus: "Building scalable full-stack applications with modern cloud architecture",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+I'm a passionate developer who loves building **innovative solutions** that make a difference. My journey in tech has been driven by curiosity and a desire to create meaningful applications that solve real-world problems.
 
-### 💼 What I Do
+🎓 **Student & Learner** — Currently studying at GITAM University, constantly exploring new technologies and expanding my skill set.
 
-🎯 **Full-Stack Development** — Crafting seamless user experiences from frontend to backend  
-☁️ **Cloud Architecture** — Deploying and scaling applications across AWS, Azure, and GCP  
-🤖 **AI/ML Integration** — Leveraging TensorFlow for intelligent solutions  
-🔧 **System Design** — Building robust, scalable, and maintainable architectures
+💡 **Builder at Heart** — I enjoy transforming ideas into working applications, from concept to deployment. Whether it's a web app, mobile solution, or backend system, I'm always excited to tackle new challenges.
 
-### 📫 Let's Connect!
+🌱 **Currently Focused On** — Building scalable full-stack applications and exploring cloud architecture, while working on projects that range from university management systems to creative web applications.
+
+🎯 **What Drives Me** — I believe in learning by doing. Each project teaches me something new, and I'm always looking for opportunities to grow and collaborate with others in the tech community.
+
+📫 **Let's Connect!**
 
 <div align="center">
   
